@@ -1,9 +1,27 @@
+Website: https://refatoken.io
+
+Telegram: https://t.me/refaenergy
+
+Telegram C: https://t.me/refachannel
+
+Twitter: https://twitter.com/refaenergy
+
+Medium: http://refatoken.medium.com/
+
+Reddit: https://www.reddit.com/user/refatoken
+
+BSC Contract address: https://bscscan.com/address/0xD5DF53381c7A71beFE70cd0f0b1508032Ec176Bc
+
 About REFA TOKEN:
 
 Token Ticker: REFA
+
 Token Name: Renewable Energy For All
+
 Blockchain: BEP-20 (Binance Smart Chain)
+
 REFA 50,000,000 Initial Supply
+
 REFA 100,000,000 Total Supply
 
 
